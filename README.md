@@ -1,2 +1,2 @@
 # Unthether
-Website/service that rounds up each purchase to connected credit card and makes micro-payments on to a loan, so you can efficiently and unconsciously untether yourself from personal debt
+Website/service that rounds up each purchase to connected credit card and makes micro-payments on to a loan, to efficiently and unconsciously untether yourself from personal debt
